@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mapa IA Brasil · MSW Capital</title>
+<meta name="description" content="As startups do Brasil com IA no centro. Mapa aberto e revisado todo mês pela MSW Capital.">
+<meta property="og:title" content="Mapa IA Brasil">
+<meta property="og:description" content="As startups do Brasil com IA no centro. Mapa aberto e revisado todo mês pela MSW Capital.">
+<style>
+html,body{margin:0;height:100%;background:#F4F5F9}
+iframe{position:fixed;inset:0;width:100%;height:100%;border:0;display:block}
+</style>
+</head>
+<body>
+<iframe id="mapa" title="Mapa IA Brasil" allow="clipboard-write"></iframe>
+<script>
+  // O mapa roda no Google Apps Script; esta página só dá o endereço bonito.
+  // O trecho depois do # (ex.: #inscricao, #lista) é repassado para o mapa.
+  var APP = "https://script.google.com/macros/s/AKfycbzCH59xoY49SAhATK2SUsXg9WGAwgFmeYRtEQUPhfVg7HadsY-XMT-Hux-Mdrt0ZV40lQ/exec";
+  function abrir(){ document.getElementById("mapa").src = APP + (location.hash || ""); }
+  abrir();
+  window.addEventListener("hashchange", abrir);
+</script>
+</body>
+</html>
