@@ -1,0 +1,224 @@
+# Mapa IA Brasil
+
+> Mapa aberto e gratuito das startups brasileiras com a inteligência artificial no centro do produto. Edição 01, outubro de 2026: 162 startups em 12 segmentos, 85 com selo AI-native (regra: fundadas a partir de 2022). Curadoria da MSW Capital, gestora de venture capital. Atualizado todo mês.
+
+## Páginas
+
+- [Mapa interativo](https://mapaiabr.com.br/)
+- [Lista completa das 162 startups](https://mapaiabr.com.br/startups.html)
+- [Startups de IA em Infraestrutura e Modelos](https://mapaiabr.com.br/startups-ia-infraestrutura-e-modelos.html): 10 startups
+- [Startups de IA em Dev Tools e Dados](https://mapaiabr.com.br/startups-ia-dev-tools-e-dados.html): 9 startups
+- [Startups de IA em Agentes e Automação](https://mapaiabr.com.br/startups-ia-agentes-e-automacao.html): 15 startups
+- [Startups de IA em Atendimento e Vendas](https://mapaiabr.com.br/startups-ia-atendimento-e-vendas.html): 16 startups
+- [Startups de IA em Saúde](https://mapaiabr.com.br/startups-ia-saude.html): 20 startups
+- [Startups de IA em Finanças e Seguros](https://mapaiabr.com.br/startups-ia-financas-e-seguros.html): 18 startups
+- [Startups de IA em Jurídico](https://mapaiabr.com.br/startups-ia-juridico.html): 10 startups
+- [Startups de IA em RH e Educação](https://mapaiabr.com.br/startups-ia-rh-e-educacao.html): 12 startups
+- [Startups de IA em Varejo e Marketing](https://mapaiabr.com.br/startups-ia-varejo-e-marketing.html): 22 startups
+- [Startups de IA em Agro](https://mapaiabr.com.br/startups-ia-agro.html): 8 startups
+- [Startups de IA em Indústria e Logística](https://mapaiabr.com.br/startups-ia-industria-e-logistica.html): 13 startups
+- [Startups de IA em Segurança e Antifraude](https://mapaiabr.com.br/startups-ia-seguranca-e-antifraude.html): 9 startups
+
+## Startups por segmento
+
+### Infraestrutura e Modelos
+
+- Dharma AI (AI-native): Small language models especializados para empresas, rodando on-premise Site: https://dharma-ai.com
+- infinity6 (AI-native): Modelos de IA treinados nos dados do cliente para precificação e previsão Site: https://infinity6.ai
+- Maritaca AI (AI-native): Modelos de linguagem Sabiá treinados para o português e o contexto brasileiro Site: https://maritaca.ai
+- Music.AI (Moises): Plataforma de IA para separação, masterização e processamento de áudio e música Site: https://music.ai
+- Nekt (AI-native): Plataforma de dados que serve contexto governado para agentes de IA Site: https://nekt.com
+- NeoSpace (AI-native): Large Data Models treinados nos dados de bancos, varejo e telecom Site: https://neospace.ai
+- NeuralMind (AI-native): LLMs e agentes de IA para setores jurídico, regulatório e financeiro Site: https://neuralmind.ai
+- Strattum (AI-native): Company brain que organiza dados corporativos como contexto para agentes de IA Site: https://strattum.ai
+- Ursula (AI-native): Personagens digitais com IA emocional e memória duradoura das interações Site: https://ursula.ai
+- WideLabs (AI-native): Infraestrutura soberana de IA, nuvem de GPU e a família de modelos Amazônia IA Site: https://widelabs.com.br
+
+### Dev Tools e Dados
+
+- 4intelligence: Plataforma de inteligência de decisão com modelos de IA e AutoML para previsões Site: https://4intelligence.ai
+- Dadosfera: Plataforma de dados com agentes que respondem perguntas em português Site: https://dadosfera.ai
+- Datlo: IA que cruza dados públicos e internos para orientar expansão e prospecção Site: https://datlo.com
+- Draiven (AI-native): Camada cognitiva que analisa dados da empresa e executa ações com agentes Site: https://draiven.io
+- Eudalia (AI-native): Dados sintéticos e modelos de IA privados para empresas com dados sensíveis Site: https://eudalia.com.br
+- Kodus (AI-native): Code review com IA open source para pull requests Site: https://kodus.io
+- Looqbox: Agentes de dados com IA que respondem perguntas de negócio e geram painéis automaticamente Site: https://looqbox.com
+- Luria: Agentes de IA para consultar dados corporativos em linguagem natural, com governança (antiga PX Data) Site: https://luria.ai
+- Openlayer: Plataforma para testar, monitorar e governar modelos e agentes de IA Site: https://openlayer.com
+
+### Agentes e Automação
+
+- BDM: Plataforma de IA que lê e analisa documentos para onboarding, KYC, risco e compliance Site: https://bdm.net.br
+- Blis AI (AI-native): Agentes autônomos que executam remarcações, assentos e reservas para agências e aéreas Site: https://blisai.com
+- Clarice.ai: Assistente de escrita com IA e modelos próprios para o português Site: https://clarice.ai
+- CrewAI (AI-native): Plataforma para criar e orquestrar times de agentes de IA em empresas Site: https://crewai.com
+- DGenny (AI-native): Agente de IA que cota e negocia compras B2B com fornecedores via WhatsApp Site: https://dgenny.com.br
+- Drachma: Agentes de IA sob medida que consultam dados e executam ações nos sistemas da empresa Site: https://drachma.xyz
+- Freedom AI (AI-native): Agentes de IA que executam processos ponta a ponta em médias e grandes empresas Site: https://freedomai.com.br
+- Inner AI: Workspace com dezenas de modelos de IA para produtividade e criação Site: https://innerai.com
+- Nama (AI-native): Conecta documentos e dados da empresa para a IA gerar trabalho auditável Site: https://nama.ai
+- Runflow (AI-native): Sistema operacional para criar, operar e governar agentes de IA em grandes empresas Site: https://runflow.ai
+- Settle (AI-native): Mais de 100 agentes de IA que leem, filtram e pontuam editais de licitações públicas Site: https://settlegov.com
+- StaryaAI (AI-native): Agentes de IA e plataforma para levar a IA ao trabalho nas empresas Site: https://starya.ai
+- Taicor: Agentes de IA sob medida, conectados aos sistemas da empresa e implantados em dias Site: https://taicor.ai
+- Tess AI (AI-native): Plataforma de agentes autônomos que combina centenas de modelos de IA Site: https://tess.im
+- Zaia: Plataforma no-code para criar e revender agentes de IA de atendimento e vendas Site: https://zaia.app
+
+### Atendimento e Vendas
+
+- Agent Shop (AI-native): Agentes de IA que vendem pelo WhatsApp para marcas e e-commerces Site: https://agentshop.com.br
+- AIDA (AI-native): IA generativa que analisa 100% das conversas de atendimento e gera decisões Site: https://aidacx.com.br
+- Aliado (AI-native): IA que analisa conversas de venda em lojas físicas e alerta em tempo real Site: https://alia.do
+- Cloud Humans: Atendimento ao cliente com a agente de IA ClaudIA para startups Site: https://cloudhumans.com
+- Cogni2 (AI-native): Agentes de IA que automatizam jornadas de atendimento, vendas e cobrança Site: https://cogni2.com
+- ColmeIA (AI-native): Plataforma de atendimento conversacional com agentes de IA para grandes empresas Site: https://colmeia.cx
+- Elephan.AI (AI-native): Inteligência de receita que transforma conversas de vendas em dados no CRM Site: https://elephan.ai
+- Fintalk: IA conversacional para cobrança e negociação por WhatsApp, voz e e-mail Site: https://fintalk.ai
+- Lastro: Assistente de IA no WhatsApp que faz o primeiro atendimento de imobiliárias Site: https://lastro.co
+- Leads Per Hour (AI-native): Agentes de IA para prospecção, coaching de calls e treino de SDRs B2B Site: https://leadsperhour.com
+- Loopia (AI-native): Agentes de IA para atendimento e vendas de e-commerces e marketplaces Site: https://loopia.com.br
+- MeetRox (AI-native): IA que grava reuniões de vendas, preenche o CRM e gera insights Site: https://meetrox.ai
+- Neotrip (AI-native): Agentes de IA treinados para cada hotel que atendem hóspedes e aumentam reservas diretas Site: https://neotrip.ai
+- Nuvia (AI-native): Agentes de IA que qualificam leads e agendam reuniões em vários canais Site: https://nuvia.ai
+- Plaza: Plataforma de IA para imobiliárias, do atendimento à locação Site: https://useplaza.com.br
+- Sellera.ai (AI-native): IA que automatiza vendas da geração de leads ao fechamento em vários canais Site: https://sellera.ai
+
+### Saúde
+
+- Arvo (AI-native): IA que audita contas hospitalares e evita pagamentos indevidos de planos Site: https://arvo.com.br
+- Carecode (AI-native): Agentes de IA que atendem pacientes e agendam consultas para clínicas Site: https://carecode.ai
+- Doutor-AI (AI-native): Agentes de IA que acompanham a jornada do paciente em clínicas e planos Site: https://doutor-ai.com
+- Horuss AI (AI-native): Modelos preditivos de IA que reduzem custos assistenciais de operadoras Site: https://horuss.ai
+- Huna (AI-native): IA que detecta risco de câncer a partir de exames de sangue de rotina Site: https://huna-ai.com
+- IntelliDoctor.ai (AI-native): Copiloto clínico e scribe com IA para apoiar médicos em casos complexos Site: https://intellidoctor.ai
+- Laudite: Software de laudos de radiologia com reconhecimento de voz e IA que evita erros comuns Site: https://laudite.com.br
+- Level: Algoritmos de IA para triagem de exames de imagem e apoio ao diagnóstico Site: https://levelai.com.br
+- Linda: IA e imagem térmica para rastrear lesões de mama sem radiação Site: https://lindalifetech.com
+- Matria (AI-native): Healthtech que usa IA para melhorar a jornada do paciente em hospitais Site: https://wematria.com
+- Neurogram: Plataforma de IA para laudos e dados de EEG em saúde neurológica Site: https://neurogram.com
+- NoHarm: IA que revisa prescrições hospitalares e aponta riscos para farmacêuticos Site: https://noharm.ai
+- Portal Telemedicina: Plataforma de laudos a distância com IA que prioriza exames urgentes Site: https://portaltelemedicina.com.br
+- Revena (AI-native): Agentes de IA que leem dados clínicos e automatizam o faturamento médico de hospitais Site: https://revena.com.br
+- Rivio (AI-native): Agentes de IA que reduzem perdas no ciclo de receita de hospitais Site: https://rivio.com.br
+- Sofya (AI-native): LLM médico próprio para documentação por voz e apoio à decisão clínica Site: https://sofya.ai
+- Viziomed: IA que detecta lesões em exames de imagem e apoia a navegação de pacientes Site: https://viziomed.co
+- Voa Health (AI-native): IA que transcreve consultas e gera a documentação clínica para médicos Site: https://voa.health
+- Vöiston: IA que transforma dados clínicos em laudos, transcrições e decisões para médicos Site: https://voiston.com
+- WorkAI (AI-native): Assistente de IA no WhatsApp que agenda, faz triagem e acompanha pacientes Site: https://workai.com.br
+
+### Finanças e Seguros
+
+- Accordia (AI-native): IA para detecção de fraude contábil e análise financeira corporativa Site: https://accordia.com.br
+- Aro (AI-native): Agente de IA que analisa o perfil financeiro e recomenda a melhor opção de crédito Site: https://aro.ia.br
+- Astor (AI-native): Assessor de investimentos com IA multiagente, por texto ou voz, conectado à carteira do usuário Site: https://astor.app
+- Autoinsp: Automatiza a análise de sinistros de seguro auto com agentes de IA e engenharia Site: https://autoinsp.com
+- Avra (AI-native): Laboratório de IA com modelos preditivos para crédito e decisões de empresas Site: https://avra.ai
+- BOND (AI-native): Escritório contábil movido a IA para pequenas e médias empresas Site: https://bond.com.br
+- Core AI (AI-native): Infraestrutura de crédito white-label com agentes de IA e motores de risco proprietários Site: https://coreai.com.br
+- Decade (AI-native): Gestão de patrimônio com IA que consolida investimentos e aponta taxas e ineficiências Site: https://decade.com
+- Gyra+: Plataforma de decisão de crédito para PMEs com IA e Open Finance Site: https://gyramais.com.br
+- Jota (AI-native): Agente financeiro com IA no WhatsApp para pequenas empresas e MEIs Site: https://jota.ai
+- Magie (AI-native): Assistente financeiro com IA que faz Pix e paga contas pelo WhatsApp Site: https://magie.com.br
+- Monest: Agente de IA que negocia e recupera dívidas por WhatsApp e voz Site: https://monest.com.br
+- Nagro: Análise de crédito com IA para produtores rurais em até 48 horas Site: https://nagro.com.br
+- O2Obots: Agentes de IA que vendem crédito e fazem cobrança para bancos, seguradoras e fintechs Site: https://o2obots.com
+- Pilotin (AI-native): Usa IA sobre dados de Open Finance para análise de risco e concessão de crédito Site: https://pilotin.com.br
+- Plain (AI-native): Agentes de IA que montam perfil, risco e carteira para assessores de investimento Site: https://linkedin.com/company/plainfin
+- ROIT: Contabilidade e gestão tributária automatizadas com robôs e IA Site: https://roit.com.br
+- Segura (AI-native): Assistente de IA que automatiza a rotina entre corretores e seguradoras Site: https://segura.ai
+
+### Jurídico
+
+- Cria.AI (AI-native): IA que redige peças jurídicas no estilo do advogado com precedentes Site: https://criaai.com.br
+- Enter (AI-native): Agentes de IA que conduzem a defesa de empresas no contencioso de massa Site: https://getenter.ai
+- Forlex (AI-native): Agente jurídico autônomo LIVIA e sistema operacional para times legais Site: https://forlex.ai
+- Inspira (AI-native): Plataforma de IA para pesquisa, análise e redação jurídica Site: https://inspira.legal
+- Jurídico AI (AI-native): Assistente de IA para advogados redigirem e analisarem peças processuais Site: https://juridico.ai
+- Lexter.ai: Especialistas virtuais de IA que redigem peças e acompanham processos Site: https://lexter.ai
+- MinutaIA (AI-native): Gera minutas e documentos jurídicos complexos com IA generativa Site: https://minutaia.com.br
+- Quill (AI-native): IA que analisa documentos de transações imobiliárias e aponta pendências Site: https://quill.com.br
+- RegDoor (AI-native): Infraestrutura regulatória com IA para acompanhar e aplicar normas em mais de 60 países Site: https://regdoor.com
+- Turivius: Busca de jurisprudência e jurimetria com IA generativa para advogados Site: https://turivius.com
+
+### RH e Educação
+
+- BeConfident (AI-native): Professores de IA para praticar conversação em inglês no app e WhatsApp Site: https://beconfident.app
+- DigAí (AI-native): Entrevistas de emprego conduzidas por IA para triagem em larga escala Site: https://digai.ai
+- Jovens Gênios: Plataforma de aprendizagem adaptativa com IA para escolas públicas Site: https://jovensgenios.com
+- Letrus: IA que corrige redações e desenvolve leitura e escrita nas escolas Site: https://letrus.com
+- Max.IA: Plataforma de IA que prevê dificuldades e personaliza o estudo de alunos Site: https://maxia.education
+- Mentora (AI-native): Mentoria de liderança com IA personalizada para cada gestor Site: https://mentora.ai
+- Sindria (AI-native): IA generativa com base de 4 mil vestibulares para preparar alunos para o Enem Site: https://akiraenem.com
+- Tako (AI-native): Agentes de IA que operam folha de pagamento e rotinas de RH Site: https://tako.ai
+- Teachy (AI-native): IA que ajuda professores a planejar aulas, criar materiais e corrigir Site: https://teachy.com.br
+- Yapp (AI-native): Recrutamento operado por agentes de IA da triagem à entrevista Site: https://yapp.rec.br
+- Yuna (AI-native): App que cria livros infantis personalizados e interativos com IA Site: https://yunastories.com
+- Árvore: Plataforma de leitura e escrita com recomendações personalizadas e IA que acompanha a alfabetização dos alunos Site: https://arvore.com.br
+
+### Varejo e Marketing
+
+- Aravita (AI-native): IA que prevê demanda de hortifrúti no varejo para reduzir desperdício Site: https://aravita.com
+- B2List: Listas de reposição geradas por IA, enviadas a lojistas pelo WhatsApp Site: https://b2list.com.br
+- Birdie: IA que analisa reviews e feedback de consumidores para orientar produtos e marcas Site: https://birdie.ai
+- FlyMedia (AI-native): Personagens e influenciadores virtuais criados e operados por IA Site: https://flymedia.ai
+- Futuriza (AI-native): IA generativa que substitui ensaios fotográficos e cria provador virtual para marcas de moda Site: https://futuriza.io
+- Maggu AI (AI-native): Copiloto de IA no balcão da farmácia que sugere produtos e orientações em tempo real Site: https://maggu.ai
+- Meliva: IA generativa que transforma um key visual em centenas de peças de campanha Site: https://meliva.ai
+- Proffer: Precificação e monitoramento de concorrentes com IA para farmácias Site: https://proffer.com.br
+- Rastro Neural: Monitora a visibilidade de marcas nas respostas de ChatGPT, Gemini e Perplexity Site: https://rastroneural.com
+- Revi (AI-native): Copiloto de marketing e CRM conversacional com IA para e-commerce Site: https://userevi.com
+- Ruum (AI-native): Decora imóveis vazios em fotos e vídeos com IA e estilos assinados por arquitetos Site: https://ruum.com.br
+- Salesrun: Agentes de IA que automatizam compras e reposição de estoque para varejistas Site: https://salesrun.io
+- Sharpi (AI-native): Agentes de IA que capturam pedidos no WhatsApp e lançam direto no ERP de distribuidores Site: https://sharpi.ai
+- Sinatra AI (AI-native): IA que detecta erros de preço, fraudes e falhas operacionais no e-commerce em tempo real Site: https://sinatra.pro
+- Trakto: IA multimodal que gera milhares de anúncios e vídeos a partir de poucas peças-base Site: https://trakto.io
+- Trinio (AI-native): Agentes de IA que orquestram checkout, estoque e fulfillment do varejo omnicanal Site: https://trinio.ai
+- Twiggy: Identifica o estilo do consumidor de moda para personalizar busca e recomendação Site: https://twiggy.ai
+- Uncover: Marketing mix modeling com modelos preditivos para otimizar investimento em mídia Site: https://uncover.co
+- Venda.ai (AI-native): Agentes de IA para vendas e atendimento de marcas de varejo no WhatsApp e Instagram Site: https://venda.ai
+- Visio.ai: Visão computacional e IA para operação e rentabilidade de lojas e franquias Site: https://visio.ai
+- Winnin: IA que analisa consumo de vídeo online e gera insights para marcas Site: https://winnin.com
+- Zeca Copiloto: Copiloto de IA que transforma campanhas de trade marketing em pedidos via WhatsApp Site: https://zeca.ai
+
+### Agro
+
+- Agrorobótica: Laser e IA para análise de solo e medição de carbono em fazendas Site: https://agrorobotica.com.br
+- BemAgro: IA e visão computacional sobre imagens de drone e satélite para monitorar lavouras Site: https://bemagro.com
+- Cromai: Visão computacional que identifica plantas daninhas e reduz o uso de herbicidas Site: https://cromai.com.br
+- Neosilos: Câmeras e IA que automatizam a classificação de qualidade de grãos Site: https://neosilos.com
+- Olho do Dono: Pesagem de bovinos e suínos sem balança com câmeras 3D e IA Site: https://olhododono.agr.br
+- SciCrop: Ciência de dados e IA que unem satélite, clima e solo para decisões agrícolas Site: https://scicrop.com
+- Tbit: Visão computacional e IA que classificam grãos e sementes por imagem em segundos Site: https://tbit.com.br
+- Umgrauemeio: Câmeras com IA que detectam focos de incêndio florestal e agrícola em tempo real Site: https://umgrauemeio.com
+
+### Indústria e Logística
+
+- 2Neuron: Manutenção preditiva com IA pelo sinal elétrico, sem sensores nas máquinas Site: https://2neuron.com
+- Aimirim: Plataforma de IA e controle preditivo que otimiza plantas industriais em tempo real Site: https://aimirimsti.com.br
+- Arqgen: IA generativa que cria opções de projetos de arquitetura e urbanismo em segundos Site: https://arqgen.com.br
+- Automni: Robôs autônomos com IA que transformam paleteiras e empilhadeiras em veículos sem operador Site: https://automni.com.br
+- Cogtive: SaaS de IA e gêmeos digitais para produtividade na manufatura Site: https://cogtive.com
+- Datamint: IA para ativos industriais críticos que prevê falhas e prioriza a manutenção Site: https://datamint.com.br
+- Delfos: IA para operação e manutenção preditiva de parques eólicos e solares Site: https://delfos.energy
+- Einship (AI-native): Plataforma de IA para inteligência de dados e gestão de operações de comércio exterior Site: https://einship.com
+- Fu2re: Visão computacional que inspeciona ativos e automatiza leituras para energia e óleo e gás Site: https://fu2re.com.br
+- Morada.ai: IA generativa que atende e qualifica compradores de imóveis para incorporadoras Site: https://morada.ai
+- Pix Force: Visão computacional para segurança do trabalho e inspeções industriais com drones Site: https://pixforce.ai
+- TideWise: Embarcações autônomas não tripuladas para inspeção e operações marítimas Site: https://tidewise.io
+- Tractian: Sensores e IA que preveem falhas de máquinas industriais antes da quebra Site: https://tractian.com
+
+### Segurança e Antifraude
+
+- CAF: Identidade digital e antifraude com IA, incluindo detecção de deepfakes Site: https://caf.io
+- Gabriel: Rede de câmeras inteligentes integrada às polícias para prevenir e elucidar crimes Site: https://gabriel.com.br
+- Gryfo: API de reconhecimento facial e prova de vida para identificação e controle de acesso Site: https://gryfo.com.br
+- Incognia: Identidade baseada em localização e dispositivo para prevenir fraudes em apps Site: https://incognia.com
+- Minds Digital: Biometria de voz e análise comportamental com IA para autenticar e evitar fraudes Site: https://minds.digital
+- Monuv: Gestão de vídeo em nuvem com IA para câmeras de segurança Site: https://monuv.com.br
+- Noleak: Visão computacional que transforma câmeras de segurança em monitoramento ativo Site: https://noleakdefence.com
+- Pax (AI-native): Plataforma de IA que cruza câmeras e bases públicas para resolver crimes Site: https://pax.ai
+- Unico: Validação de identidade com biometria facial e IA contra fraudes Site: https://unico.io
+
+## Sobre
+
+Inscrições e correções: formulário em https://mapaiabr.com.br/#inscricao ou contato@mapaiabr.com.br. O mapa não abrange todas as empresas de IA do país.
