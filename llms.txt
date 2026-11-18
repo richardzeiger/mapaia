@@ -9,9 +9,9 @@ Critérios para entrar: ser brasileira (fundada por brasileiros ou nascida no Br
 - [Mapa interativo](https://mapaiabr.com.br/): mapa por segmento, lista, aba VCs em IA e aba IA News (notícias das startups do mapa)
 - [Lista completa das 232 startups](https://mapaiabr.com.br/startups.html)
 - [VCs brasileiros que investem em IA](https://mapaiabr.com.br/vcs-ia.html): 43 gestoras
-- [Startups de IA em Infraestrutura e Modelos](https://mapaiabr.com.br/startups-ia-infraestrutura-e-modelos.html): 18 startups
+- [Startups de IA em Infraestrutura e Modelos](https://mapaiabr.com.br/startups-ia-infraestrutura-e-modelos.html): 20 startups
 - [Startups de IA em Dev Tools e Dados](https://mapaiabr.com.br/startups-ia-dev-tools-e-dados.html): 11 startups
-- [Startups de IA em Agentes e Automação](https://mapaiabr.com.br/startups-ia-agentes-e-automacao.html): 31 startups
+- [Startups de IA em Agentes e Automação](https://mapaiabr.com.br/startups-ia-agentes-e-automacao.html): 29 startups
 - [Startups de IA em Atendimento e Vendas](https://mapaiabr.com.br/startups-ia-atendimento-e-vendas.html): 23 startups
 - [Startups de IA em Saúde](https://mapaiabr.com.br/startups-ia-saude.html): 25 startups
 - [Startups de IA em Finanças e Seguros](https://mapaiabr.com.br/startups-ia-financas-e-seguros.html): 22 startups
@@ -22,16 +22,37 @@ Critérios para entrar: ser brasileira (fundada por brasileiros ou nascida no Br
 - [Startups de IA em Indústria e Logística](https://mapaiabr.com.br/startups-ia-industria-e-logistica.html): 19 startups
 - [Startups de IA em Segurança e Antifraude](https://mapaiabr.com.br/startups-ia-seguranca-e-antifraude.html): 11 startups
 
+## English
+
+Mapa IA Brasil (AI Map Brazil) is a free, open map of Brazilian startups with AI at the core of their product, curated monthly by MSW Capital, a Brazilian venture capital firm. Edition 02 (November 2026): 232 startups in 12 segments, 138 with the AI-native badge; startups on the map have raised more than R$ 7 billion since 2022; 43 Brazilian VC firms invest in them. English pages:
+
+- [Brazilian AI startups: full list](https://mapaiabr.com.br/en/brazilian-ai-startups.html)
+- [Brazilian VCs investing in AI](https://mapaiabr.com.br/en/brazilian-vcs-investing-in-ai.html)
+- [AI startups in Brazil: Infrastructure and models](https://mapaiabr.com.br/en/ai-startups-brazil-infrastructure-and-models.html)
+- [AI startups in Brazil: Dev tools and data](https://mapaiabr.com.br/en/ai-startups-brazil-dev-tools-and-data.html)
+- [AI startups in Brazil: Agents and automation](https://mapaiabr.com.br/en/ai-startups-brazil-agents-and-automation.html)
+- [AI startups in Brazil: Customer service and sales](https://mapaiabr.com.br/en/ai-startups-brazil-customer-service-and-sales.html)
+- [AI startups in Brazil: Health](https://mapaiabr.com.br/en/ai-startups-brazil-health.html)
+- [AI startups in Brazil: Finance and insurance](https://mapaiabr.com.br/en/ai-startups-brazil-finance-and-insurance.html)
+- [AI startups in Brazil: Legal](https://mapaiabr.com.br/en/ai-startups-brazil-legal.html)
+- [AI startups in Brazil: HR and education](https://mapaiabr.com.br/en/ai-startups-brazil-hr-and-education.html)
+- [AI startups in Brazil: Retail and marketing](https://mapaiabr.com.br/en/ai-startups-brazil-retail-and-marketing.html)
+- [AI startups in Brazil: Agriculture](https://mapaiabr.com.br/en/ai-startups-brazil-agriculture.html)
+- [AI startups in Brazil: Industry and logistics](https://mapaiabr.com.br/en/ai-startups-brazil-industry-and-logistics.html)
+- [AI startups in Brazil: Security and anti-fraud](https://mapaiabr.com.br/en/ai-startups-brazil-security-and-anti-fraud.html)
+
 ## Startups por segmento
 
 ### Infraestrutura e Modelos
 
 - Boreal: AI Gateway e ambiente de IA privada para empresas operarem IA com governança. Site: https://boreal.ia.br
+- Camile AI (AI-native): Entidades digitais de IA com memória e aprendizado contínuos para pessoas e empresas. Site: https://camileai.com
 - Dharma AI (AI-native): Small language models especializados para empresas, rodando on-premise. Site: https://dharma-ai.com
 - FoundLab: Infraestrutura que autoriza ações de IA e gera evidência criptográfica de cada execução. Site: https://foundlab.com.br
 - Hakutaku (AI-native): Clones de IA de founders e executivos para agentes usarem seu julgamento. Site: https://hakutaku.ai
 - IARIS (AI-native): Produtos de IA para certificação de processos, como monitoramento de provas online. Site: https://iaris.com
 - infinity6 (AI-native): Modelos de IA treinados nos dados do cliente para precificação e previsão. Site: https://infinity6.ai
+- Licinexus (AI-native): Modelos de IA próprios para licitação pública, treinados em editais e contratos brasileiros. Site: https://licinexus.com.br
 - Mangaba AI (AI-native): Modelos de linguagem treinados por setor, rodando como agentes em servidores no Brasil. Site: https://mangaba.ia.br
 - Maritaca AI (AI-native): Modelos de linguagem Sabiá treinados para o português e o contexto brasileiro. Site: https://maritaca.ai
 - Music.AI (Moises): Plataforma de IA para separação, masterização e processamento de áudio e música. Site: https://music.ai
@@ -64,7 +85,6 @@ Critérios para entrar: ser brasileira (fundada por brasileiros ou nascida no Br
 - Abstra: Agentes de IA e workflows para automatizar processos financeiros de ponta a ponta. Site: https://abstra.io
 - BDM: Plataforma de IA que lê e analisa documentos para onboarding, KYC, risco e compliance. Site: https://bdm.net.br
 - Blis AI (AI-native): Agentes autônomos que executam remarcações, assentos e reservas para agências e aéreas. Site: https://blisai.com
-- Camile AI (AI-native): Entidades digitais de IA com memória e aprendizado contínuos para pessoas e empresas. Site: https://camileai.com
 - Charla (AI-native): Plataforma de IA agêntica para empresas criarem assistentes que atendem clientes em qualquer idioma. Site: https://charla.ia.br
 - Clarice.ai: Assistente de escrita com IA e modelos próprios para o português. Site: https://clarice.ai
 - Closecare: Agentes de IA que automatizam a gestão de atestados médicos de empresas. Site: https://closecare.com.br
@@ -76,7 +96,6 @@ Critérios para entrar: ser brasileira (fundada por brasileiros ou nascida no Br
 - Inner AI: Workspace com dezenas de modelos de IA para produtividade e criação. Site: https://innerai.com
 - Jabuti AGI (AI-native): Agentes de IA autônomos para atendimento e operações em canais digitais regulados. Site: https://jabutiagi.com
 - LabMessage (AI-native): Agentes de IA que automatizam atendimento, vendas e agendamentos pelo WhatsApp. Site: https://labmessage.com.br
-- Licinexus (AI-native): Agentes de IA que operam licitações públicas para fornecedores, da triagem ao contrato. Site: https://licinexus.com.br
 - lOrdly (AI-native): IA que identifica onde negócios digitais perdem receita e qual ação priorizar. Site: https://lordly.io
 - lubi.bot (AI-native): Funcionários de IA para cada função da empresa, com aprovação humana das entregas. Site: https://lubi.bot
 - Nama (AI-native): Conecta documentos e dados da empresa para a IA gerar trabalho auditável. Site: https://nama.ai
@@ -271,7 +290,7 @@ Critérios para entrar: ser brasileira (fundada por brasileiros ou nascida no Br
 - Eyna (AI-native): Visão computacional e IA para monitorar operações físicas e transformar imagens em ações. Site: https://eyna.com.br
 - Fu2re: Visão computacional que inspeciona ativos e automatiza leituras para energia e óleo e gás. Site: https://fu2re.com.br
 - Morada.ai: IA generativa que atende e qualifica compradores de imóveis para incorporadoras. Site: https://morada.ai
-- MoveInTech (AI-native): Agentes de IA para operações logísticas, começando pela emissão fiscal de transporte. Site: https://moveintech.com.br
+- MoveInTech (AI-native): Agentes de IA que automatizam operações logísticas e industriais. Site: https://moveintech.com.br
 - Pix Force: Visão computacional para segurança do trabalho e inspeções industriais com drones. Site: https://pixforce.ai
 - TideWise: Embarcações autônomas não tripuladas para inspeção e operações marítimas. Site: https://tidewise.io
 - Tractian: Sensores e IA que preveem falhas de máquinas industriais antes da quebra. Site: https://tractian.com
